@@ -4,8 +4,24 @@ The Flaxen calendar is based around two Moons, Lira and Sess, Lira marks the sea
 
 The old year is said to end during the winter darkness, a period of three days at the beginning of winter when both moons are new, and the new year is considered to have begun three days later when both moons are waxing. This period is known as the Long Night for it is also the three days of the year when the days are shortest.
 
+### Quick Guide -
+Days per:
+**Year -** 333 Days + 3 Day Long Night
+**Season -** 84 Days
+**Month -** 28 Days
+**Span -** 6 Days
+
+Calendar Marker and Dates:
+**Year -** The Mablen measure the year since the beginning of the current Time or Era; how exactly they decide when these Times begin and end is known only to the Mablen elders. Currently the year is 204 after Grail's fracture (204agf).
+**Date -** Dates are recorded by the Mablen as the numbered day of the numbered/named span or moon state of the numbered month of the named season in the year. ex:
+  - The third day of the second span of the 1st month of spring in the 151st year after Grail's fracture.
+  - The first day of the new moon of the second month of summer in the 200th year after Grail's fracture.
+Dates are more commonly spoken of as the numbered day of the named month's numbered span type or moon state in the named season with or without a year.
+  - The fourth day of Autumn's 3rd waxing crescent.
+  - On the sixth day of the first waning gibbous in Winter. 
+
 ### Common calendar breakdown and date description
-While the Mablen do consider the number of days in a month, season, or year most only count the days in the quarter month, or span. Each month is therefor broken into six parts, the First Season's Even or Long Night, the Midseason's Day(s) and four spans commonly called first crescent, first and second gibbous, and second crescent in that order.
+While the Mablen do consider the number of days in a month, season, or year most only count the days in the quarter month, or span. Each month is therefor broken into six parts, the First Season's Evening, or Long Night, the Midseason's Day(s) and four spans commonly called first crescent, first and second gibbous, and second crescent in that order.
 
 Dates are often spoken of as which day of which span in what number month of which season, such as "meet me on the third day of spring's second waxing gibbous" or "when Sess is full for the last time this winter."
 
@@ -21,7 +37,7 @@ Mid Season Days - these days where both moons are full keep the nights lit almos
 * The Hours - the time of the second creation, when the Ohma and the Dwellers were created and Flax first came into being.  
 * The Days - the time of the third, and final, creation, when Flax was populated with plants and animals and the Strains came into being.
 * The Eras - with the Mablen creation of the calendar time began to be measured by the strains and was no longer understood solely by the gods.
-* The First Era - the time of discovery, the Mablen claim the first era lasted five thousand years; during this time the Strains spread and met and built early communities and fought bloody wars over land and resources. No true civilizations existed during this time.
-* The Second Era - the time of kings, as small communities gained more power and minor warlords seised land hundreds of small kingdoms emerged, few lasting more than a generation. The second era is said to have lasted 2 thousand years and come to an end with the creation of the, then small, kingdom of Grail.
-* The Third Era - the time of civilization, starting with the founding of the kingdom of grail and ending with it's fracture. This Era lasted nearly a thousand years.
-* The Fourth Era - an unnamed time, barely 200 years in and with no single great defining feature the forth era is still young and it's legacy yet unknown.
+* The time of discovery, the Mablen claim the first era lasted five thousand years; during this time the Strains spread and met and built early communities and fought bloody wars over land and resources. No true civilizations existed during this time.
+* The time of kings, as small communities gained more power and minor warlords seised land hundreds of small kingdoms emerged, few lasting more than a generation. The second era is said to have lasted 2 thousand years and come to an end with the creation of the, then small, kingdom of Grail.
+* The time of civilization, starting with the founding of the kingdom of grail and ending with it's fracture. This Era lasted nearly a thousand years.
+* The unnamed time, barely 200 years in and with no single great defining feature the forth era is still young and it's legacy yet unknown.
