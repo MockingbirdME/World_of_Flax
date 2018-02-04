@@ -12,13 +12,13 @@ Days per:
 **Span -** 6 Days
 
 Calendar Marker and Dates:
-**Year -** The Mablen measure the year since the beginning of the current Time or Era; how exactly they decide when these Times begin and end is known only to the Mablen elders. Currently the year is 204 after Grail's fracture (204agf).
+**Year -** The Mablen measure the year since the beginning of the current Time or Era; how exactly they decide when these Times begin and end is known only to the Mablen elders. Currently the year is 64 after Grail's fracture (64agf).
 **Date -** Dates are recorded by the Mablen as the numbered day of the numbered/named span or moon state of the numbered month of the named season in the year. ex:
   - The third day of the second span of the 1st month of spring in the 151st year after Grail's fracture.
   - The first day of the new moon of the second month of summer in the 200th year after Grail's fracture.
 Dates are more commonly spoken of as the numbered day of the named month's numbered span type or moon state in the named season with or without a year.
   - The fourth day of Autumn's 3rd waxing crescent.
-  - On the sixth day of the first waning gibbous in Winter. 
+  - On the sixth day of the first waning gibbous in Winter.
 
 ### Common calendar breakdown and date description
 While the Mablen do consider the number of days in a month, season, or year most only count the days in the quarter month, or span. Each month is therefor broken into six parts, the First Season's Evening, or Long Night, the Midseason's Day(s) and four spans commonly called first crescent, first and second gibbous, and second crescent in that order.
