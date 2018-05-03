@@ -8,6 +8,8 @@ Teejee Queens are not chosen so democratically, the queen always has a single li
 # The Five Princes
 Princes are chosen much like kings but from amongst the lords and ladies of the principality, they are not required to be descended from Solomide or even Sapeen though they generally are. Princes swear fealty to the king and are sworn fealty by the barons and dukes of their principality. Princes are formally referred to as 'Lord or Lady Prince' and informally as 'Prince', 'Lord or Lady' or 'my Prince.'
 
+
+TODO rewrite nobility: explain that barons are elected for life, dukes inherit from their parents, earls are appointed by the prince, and counts by the king.
 # Duchies and baronies
 The high lords and ladies of Askelon rule over provinces within a principality. These titles are based largely on the power and wealth of the territory but don't change once assigned so while a Duke or Duchess usually has more power than a Baron or Baroness this is not always the case. All high lords swear fealty to their prince and are in turn sworn fealty by the landowners who rule within their domains. Dukes and Barons are referred to as 'Lord or Lady' or 'My duke, duchess, baron, baroness.'
 
